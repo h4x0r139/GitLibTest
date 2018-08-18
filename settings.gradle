@@ -1,2 +1,2 @@
 
-include ':jar_lib'
+include ':jar_lib', ':and_lib'
